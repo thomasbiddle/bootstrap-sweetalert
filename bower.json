@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-sweetalert",
-  "homepage": "http://lipis.github.io/bootstrap-sweetalert/",
+  "name": "bootstrap-sweetalert-tjbiddle",
+  "homepage": "https://github.com/thomasbiddle/bootstrap-sweetalert",
   "authors": [
     "Tristan Edwards <tristan.edwards@me.com> (http://tristanedwards.me)",
     "Panayiotis Lipiridis <lipiridis@gmail.com> (http://lip.is)"
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:lipis/bootstrap-sweetalert.git"
+    "url": "git@github.com:thomasbiddle/bootstrap-sweetalert.git"
   },
   "license": "MIT"
 }
